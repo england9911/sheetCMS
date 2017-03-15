@@ -1,13 +1,12 @@
 {
-  "name": "CMSish",
+  "name": "sheetCMS",
   "version": "0.1.0",
   "author": {
-    "name": "Domain7",
-    "email": "jamie@verticalgraindesign.com",
-    "url": "http://verticalgraindesign.com",
-    "client": "CMSish"
+    "name": "Matt England",
+    "email": "m.p.england@gmail.com",
+    "url": "http://matteng.land"
   },
-  "description": "The simplest CMS in the world",
+  "description": "Simple CMS using tabletopJS to read content from a Google Sheet",
   "engines": {
     "node": ">= 0.10.0"
   },
